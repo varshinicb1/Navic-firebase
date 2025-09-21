@@ -1,3 +1,6 @@
 {
-  "google_maps_platform": {}
+  "firebase_hosting": {},
+  "cloud_run_deploy": {},
+  "google_maps_platform": {},
+  "secrets_manager": {}
 }
